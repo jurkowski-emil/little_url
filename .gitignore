@@ -119,7 +119,7 @@ venv.bak/
 *.sublime-project
 
 # sftp configuration file
-sftp-config.json 
+sftp-config.json
 
 # Package control specific files Package
 Control.last-run
@@ -134,4 +134,4 @@ GitHub.sublime-settings
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-.historyod]
+.historyod
